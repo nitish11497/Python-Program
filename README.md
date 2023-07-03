@@ -1,3 +1,3 @@
 # Python-Program
 
-Connection with DataBase PostGress
+Connection with DataBase PostGresql
