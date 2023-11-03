@@ -9,3 +9,6 @@ https://medium.com/@chenyumei8866/20-extremely-useful-single-line-python-codes-b
 
 # Packaging Tkinter applications for Windows with PyInstaller & InstallForge 
 https://www.pythonguis.com/tutorials/packaging-tkinter-applications-windows-pyinstaller/
+
+# python selenium convert into exe
+https://www.zacoding.com/en/post/python-selenium-to-exe/
